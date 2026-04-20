@@ -56,26 +56,21 @@ I'm a motivated **Computer Science undergraduate** with strong foundations in pr
 
 ---
 
-## 📊 GitHub Statistics.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-<div align="center">img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+## 📊 GitHub Statistics
+<div align="center">
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=ritikkumar07-coder&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar07-coder&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
-    </tr>c="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-    <tr>rc="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar07-coder&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
-    </tr>Hub Statistics
-  </table>
-</div>lign="center">
-  <table>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikkumar07-coder&theme=algolia" alt="Profile Summary" />rue&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
-</div><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar07-coder&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
     </tr>
---- <tr>
+    <tr>
       <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar07-coder&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikkumar07-coder&theme=algolia" alt="Profile Summary" />
+</div>
 ## 💼 Projects
   </table>
 | # | Project | Tech Stack | Status | Demo |
@@ -99,10 +94,8 @@ I'm a motivated **Computer Science undergraduate** with strong foundations in pr
 ---
 ## 🏆 LeetCode Profile
   <a href="https://github.com/ritikkumar07-coder">
-<div align="center">//github-readme-stats.vercel.app/api/pin/?username=ritikkumar07-coder&repo=ritikkumar07-coder&theme=algolia&hide_border=true" alt="Profile Repo" />
+<div align="center">
   <a href="https://leetcode.com/u/ritik_yadav_7/"><img src="https://leetcard.jacoblin.cool/ritik_yadav_7?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
-  <br/><br/>ttps://github.com/ritikkumar07-coder">
-  <a href="https://leetcode.com/u/ritik_yadav_7/"><img src="https://leetcard.jacoblin.cool/ritik_yadav_7?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
 </div>
 ### 📈 Problem Solving Journey
