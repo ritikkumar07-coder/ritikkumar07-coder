@@ -92,18 +92,45 @@ I'm a motivated **Computer Science undergraduate** with strong foundations in pr
 </div>
 </div>
 ### 📈 Problem Solving Journey
----
-| Metric | Value |
-|--------|-------|
-| **Total Solved** | 113 / 3906 Solved |
-| **Easy** | 54 / 938 |
-| **Medium** | 49 / 2044 |
-| **Hard** | 10 / 924 |
-| **Languages** | C++, Java, Python |
-| **Active Days** | 60+ days past year |
-| **Focus Areas** | DSA, System Design, OOP |
+<div align="center">
+  <table>
+    <tr>
+      <th>Metric</th>
+      <th>Value</th>
+    </tr>
+    <tr>
+      <td><strong>Total Solved</strong></td>
+      <td>113 / 3906 Solved</td>
+    </tr>
+    <tr>
+      <td><strong>Easy</strong></td>
+      <td>54 / 938</td>
+    </tr>
+    <tr>
+      <td><strong>Medium</strong></td>
+      <td>49 / 2044</td>
+    </tr>
+    <tr>
+      <td><strong>Hard</strong></td>
+      <td>10 / 924</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>C++, Java, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Active Days</strong></td>
+      <td>60+ days past year</td>
+    </tr>
+    <tr>
+      <td><strong>Focus Areas</strong></td>
+      <td>DSA, System Design, OOP</td>
+    </tr>
+  </table>
+</div>
 
 [🔗 Visit my LeetCode Profile](https://leetcode.com/u/ritik_yadav_7/)
+
 
 ---
 
