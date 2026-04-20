@@ -199,12 +199,16 @@ on-grade full-stack applications
 
 
 
-</div>![Visitor Count](https://komarev.com/ghpvc/?username=itsashish1&color=58a6ff&style=flat-square)<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />```💡 "The only way to do great work is to love what you do." - Steve Jobs```text### 🌟 Thanks for visiting my profile! Feel free to explore my repositories.<div align="center">---| **GitHub** | [github.com/itsashish1](https://github.com/itsashish1) | ✅ Active || **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/itsashish1/) | ✅ Active || **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active ||----------|------|--------|| Platform | Link | Status |### 📬 Let's Connect</div>  </table>    </tr>      </td>        </a>```text
-💡 "The only way to do great work is to love what you do." - Steve Jobs
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikkumar07-coder&color=58a6ff&style=flat-square" alt="Visitor Count" />
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=itsashish1&color=58a6ff&style=flat-square)
-
+<div align="center">
+  <br>
+  <p>💡 "The only way to do great work is to love what you do." - Steve Jobs</p>
+  <p>🌟 Thanks for visiting my profile! Feel free to explore my repositories.</p>
 </div>
