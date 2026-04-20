@@ -2,7 +2,9 @@
 <!-- Achievement unlock PR 1 -->
 <!--
 👋 Hi there! Welcome to my GitHub profile!
-🚀 I build scalable applications & solve real-world problems
+🚀 Actively building skills in ML
+Comfortable with Python
+Interested in open-source collaboration
 -->
 
 <!-- Header Banner -->
