@@ -71,26 +71,19 @@ I'm a motivated **Computer Science undergraduate** with strong foundations in pr
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikkumar07-coder&theme=algolia" alt="Profile Summary" />
 </div>
-## 💼 Projects
-  </table>
-| # | Project | Tech Stack | Status | Demo |
-|---|---------|-----------|--------|------|
-| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/ritikkumar07-coder) |
-| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/ritikkumar07-coder) |me=algolia" alt="Profile Summary" />
-| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/ritikkumar07-coder) |
-| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/ritik_yadav_7/) |
+
 ---
+
+
 ### 🔗 Featured Repositories
-## 💼 Projects
 <div align="center">
-  <a href="https://github.com/ritikkumar07-coder"> |
+  <a href="https://github.com/ritikkumar07-coder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikkumar07-coder&repo=ritikkumar07-coder&theme=algolia&hide_border=true" alt="Profile Repo" />
-  </a>**Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/ritikkumar07-coder) |
-  <a href="https://github.com/ritikkumar07-coder">ypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/ritikkumar07-coder) |
+  </a>
+  <a href="https://github.com/ritikkumar07-coder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikkumar07-coder&repo=ritikkumar07-coder&theme=algolia&hide_border=true" alt="Pinned Repo" />
-  </a>**DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/ritik_yadav_7/) |
+  </a>
 </div>
-### 🔗 Featured Repositories
 ---
 ## 🏆 LeetCode Profile
   <a href="https://github.com/ritikkumar07-coder">
